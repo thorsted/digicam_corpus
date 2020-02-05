@@ -1,0 +1,37 @@
+﻿Created By AccessData® FTK® Imager 3.1.1.8 
+
+Case Information: 
+Acquired using: ADI3.1.1.8
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Documents and Settings\Administrator\My Documents\FD71:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,880
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    39f7a9b248fc4a2016b7f198986080cf
+ SHA1 checksum:   deffd94d8fb594809ef1f61f3b9a52ee583c415d
+
+Image Information:
+ Acquisition started:   Wed Feb 05 09:54:07 2020
+ Acquisition finished:  Wed Feb 05 09:54:58 2020
+ Segment list:
+  C:\Documents and Settings\Administrator\My Documents\FD71.001
+
+Image Verification Results:
+ Verification started:  Wed Feb 05 09:54:58 2020
+ Verification finished: Wed Feb 05 09:54:58 2020
+ MD5 checksum:    39f7a9b248fc4a2016b7f198986080cf : verified
+ SHA1 checksum:   deffd94d8fb594809ef1f61f3b9a52ee583c415d : verified
