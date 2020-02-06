@@ -1,0 +1,39 @@
+﻿Created By AccessData® FTK® Imager 4.2.0.13 
+
+Case Information: 
+Acquired using: ADI4.2.0.13
+Case Number:  
+Evidence Number: -0001
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\Users\thorsted\OneDrive - Church of Jesus Christ\Shared\FD75-0001:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Logical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2,880
+[Physical Drive Information]
+ Removable drive: True
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    3854aa7b755cfb3271a2e88211600489
+ SHA1 checksum:   83bed5ae2cbcffc01d0a2d7f310b5071780713f2
+
+Image Information:
+ Acquisition started:   Thu Feb  6 13:12:29 2020
+ Acquisition finished:  Thu Feb  6 13:13:22 2020
+ Segment list:
+  C:\Users\thorsted\OneDrive - Church of Jesus Christ\Shared\FD75-0001.001
+
+Image Verification Results:
+ Verification started:  Thu Feb  6 13:13:22 2020
+ Verification finished: Thu Feb  6 13:13:22 2020
+ MD5 checksum:    3854aa7b755cfb3271a2e88211600489 : verified
+ SHA1 checksum:   83bed5ae2cbcffc01d0a2d7f310b5071780713f2 : verified
