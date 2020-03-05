@@ -1,7 +1,8 @@
 PENTAX *ist DL Camera	
 
 Specifications
-http://www.ricoh-imaging.co.jp/english/support/man-pdf/istdl.pdf
+- http://www.ricoh-imaging.co.jp/english/products/digital/ist-dl/spec.html
+- http://www.ricoh-imaging.co.jp/english/support/man-pdf/istdl.pdf
 
 - File Format: PEF, JPG
 
