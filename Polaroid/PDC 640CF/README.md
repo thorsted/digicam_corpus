@@ -1,1 +1,0 @@
-# Polaroid PDC 640CF Modem Digital Camera
