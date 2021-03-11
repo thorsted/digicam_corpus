@@ -10,7 +10,7 @@ Notes:
 
 --------------------------------------------------------------
 
-Information for C:\Users\thorsted\OneDrive - Church of Jesus Christ\Shared\FD73-0001:
+Information for C:\FD73-0001:
 
 Physical Evidentiary Item (Source) Information:
 [Device Info]
@@ -30,7 +30,7 @@ Image Information:
  Acquisition started:   Thu Feb 13 09:54:10 2020
  Acquisition finished:  Thu Feb 13 09:54:56 2020
  Segment list:
-  C:\Users\thorsted\OneDrive - Church of Jesus Christ\Shared\FD73-0001.001
+  C:\FD73-0001.001
 
 Image Verification Results:
  Verification started:  Thu Feb 13 09:54:56 2020
