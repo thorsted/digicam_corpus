@@ -30,7 +30,7 @@ Image Information:
  Acquisition started:   Thu Feb  6 13:10:53 2020
  Acquisition finished:  Thu Feb  6 13:11:45 2020
  Segment list:
-  C:\Users\thorsted\OneDrive - Church of Jesus Christ\Shared\FD200.001
+  C:\FD200.001
 
 Image Verification Results:
  Verification started:  Thu Feb  6 13:11:46 2020
