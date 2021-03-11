@@ -1,0 +1,31 @@
+Case Information: 
+Acquired using: FTK
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for FD88:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2880
+[Physical Drive Information]
+ Drive Model: TEAC FD-05PU Media
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    61fb21bd76633950cbf70c10890ab5f8
+ SHA1 checksum:   a01e9332ee00f78b32351f0ea82419a72fdac18f
+
+Image Information:
+ Acquisition started:   Thu Mar 11 00:09:55 2021
+ Acquisition finished:  Thu Mar 11 00:11:47 2021
+ Segment list:
+  FD88.001
