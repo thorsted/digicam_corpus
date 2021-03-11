@@ -1,0 +1,31 @@
+Case Information: 
+Acquired using: FTK
+Case Number:  
+Evidence Number:  
+Unique Description: 
+Examiner:  
+Notes:  
+
+--------------------------------------------------------------
+
+Information for FD7:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Bytes per Sector: 512
+ Sector Count: 2880
+[Physical Drive Information]
+ Drive Model: TEAC FD-05PU Media
+ Source data size: 1 MB
+ Sector count:    2880
+[Computed Hashes]
+ MD5 checksum:    aaed0499fd690cbb70637d129c7277b5
+ SHA1 checksum:   eed105a6983e7b7cf1aab2a3ac81ccab45ea8ff5
+
+Image Information:
+ Acquisition started:   Wed Mar 10 23:54:24 2021
+ Acquisition finished:  Wed Mar 10 23:56:16 2021
+ Segment list:
+  FD7.001
