@@ -1,7 +1,7 @@
 # digicam corpus
 Corpus of Digital Camera files.
 
-A collection of images/video captured with vintage digital cameras. 
+A collection of images/video captured with various digital cameras. 
 
 # Guidelines
 Images Captured using:
