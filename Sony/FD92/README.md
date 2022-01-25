@@ -11,7 +11,7 @@ Floppy Disk image
 - MPG Voice and video recordings
 
 MemoryStick
--JPG Images using resolution 1472x1104
--TIF Images using resolution 1280x960
+- JPG Images using resolution 1472x1104
+- TIF Images using resolution 1280x960
 
 
