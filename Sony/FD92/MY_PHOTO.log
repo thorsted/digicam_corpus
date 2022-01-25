@@ -1,0 +1,9 @@
+# Mapfile. Created by GNU ddrescue version 1.25
+# Command line: ddrescue -r2 /dev/disk4 MY_PHOTO.img MY_PHOTO.log
+# Start time:   2022-01-25 10:30:58
+# Current time: 2022-01-25 10:32:51
+# Finished
+# current_pos  current_status  current_pass
+0x00160000     +               1
+#      pos        size  status
+0x00000000  0x00168000  +
