@@ -1,0 +1,9 @@
+# Mapfile. Created by GNU ddrescue version 1.25
+# Command line: ddrescue -r2 /dev/disk2 FD5.img FD5.log
+# Start time:   2022-03-10 08:37:16
+# Current time: 2022-03-10 08:39:09
+# Finished
+# current_pos  current_status  current_pass
+0x00160000     +               1
+#      pos        size  status
+0x00000000  0x00168000  +
