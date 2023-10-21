@@ -1,0 +1,9 @@
+# Mapfile. Created by GNU ddrescue version 1.27
+# Command line: ddrescue -r2 /dev/disk4 PVSD4090.img PVSD4090.log
+# Start time:   2023-10-21 10:24:57
+# Current time: 2023-10-21 10:26:49
+# Finished
+# current_pos  current_status  current_pass
+0x00160000     +               1
+#      pos        size  status
+0x00000000  0x00168000  +
